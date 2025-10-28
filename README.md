@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/181b6b41-3396-4b14-818f-a8cecd1ad471" width="875" height="327" alt="Iris Flower Classification Banner">
-</p>
 
 # 🌸 IRIS Flower Classification
 
@@ -11,6 +8,7 @@ The goal is to predict the species of an Iris flower (*Setosa, Versicolor, Virgi
 The Iris dataset is a classic example for beginners in machine learning, as it is simple yet powerful for understanding key concepts in **supervised learning**.
 
 ---
+<img width="1043" height="474" alt="image" src="https://github.com/user-attachments/assets/bb84fda2-59b1-40f5-b09c-3c1274a7f0af" />
 
 ## 🚀 Objectives
 - Implement multiple **supervised learning algorithms** for classification.
@@ -88,6 +86,3 @@ All models performed well, with **SVM** and **Logistic Regression** giving the *
    git clone https://github.com/<your-username>/IRIS-Flower-Classification.git
    cd IRIS-Flower-Classification
 
-
-
-<img width="1043" height="474" alt="image" src="https://github.com/user-attachments/assets/bb84fda2-59b1-40f5-b09c-3c1274a7f0af" />
